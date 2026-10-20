@@ -324,7 +324,7 @@ function App() {
             <div className="contact__details">
               <a href="tel:+923218893371"><span>Phone</span>+92 321 8893371 <b>↗</b></a>
               <a href="mailto:ramzan.babar@icloud.com"><span>Email</span>ramzan.babar@icloud.com <b>↗</b></a>
-              <p><span>Based in</span>Lahore, Pakistan</p>
+              <p><span>Address</span>House # 39-C, P.G.E.C.H.S Society, Phase 2, College Road, Lahore</p>
             </div>
           </div>
           <form className="contact-form" onSubmit={sendEnquiry}>
